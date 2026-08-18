@@ -1,0 +1,9 @@
+<resources>
+    <color name="navy">#0B1120</color>
+    <color name="navy_light">#141B2E</color>
+    <color name="amber">#F0A868</color>
+    <color name="amber_dark">#E8874A</color>
+    <color name="teal">#5EC8B8</color>
+    <color name="text_light">#F5F1E8</color>
+    <color name="text_muted">#8B93A7</color>
+</resources>
